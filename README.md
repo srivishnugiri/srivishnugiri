@@ -1,4 +1,8 @@
-# Hey 👋 What's up?
+<h1>
+  Hey 
+  <img src="https://raw.githubusercontent.com/srivishnugiri/srivishnugiri/main/wave.gif" width="45" />
+  What's up?
+</h1>
 
 My name is **Sri Vishnugiri C** and I'm a **Software Developer & AI/ML Enthusiast** from 🇮🇳 **India**.
 
