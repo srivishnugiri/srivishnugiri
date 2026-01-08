@@ -1,16 +1,15 @@
-## Hi there 👋
+## 🏆 Achievements & Highlights
 
-<!--
-**srivishnugiri/srivishnugiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🥈 **2nd Place – SQL Competition (Technovista 2023)**
+- 🥉 **3rd Place – Digital Logic Game (Technovista 2023)**
+- 🎓 **Machine Learning & Deep Learning – MathWorks Certified**
+- 🤖 **Generative AI – Certified**
+- 📊 **Data Analytics & MySQL – Proficient**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 GitHub Highlights
+- 🔥 Active contributor in AI/ML projects
+- 🧠 Explainable AI (SHAP, Grad-CAM)
+- 💻 Full-Stack (React + Spring Boot)
+- ☁ AWS & Deployment experience
