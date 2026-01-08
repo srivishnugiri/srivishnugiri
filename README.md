@@ -1,19 +1,22 @@
+# Hey 👋 What's up?
+
+My name is **Sri Vishnugiri C** and I'm a **Software Developer & AI/ML Enthusiast** from 🇮🇳 **India**.
+
+---
 <table>
 <tr>
-<td width="60%">
+<td width="70%">
 
-## Hi there 👋 It's me **Sri Vishnugiri C**
 
-🎓 B.Tech Artificial Intelligence & Data Science (2026)  
-💻 Software Developer | AI / ML | Full-Stack Enthusiast  
+## About me
 
-- 🔭 Here’s my GitHub: [srivishnugiri](https://github.com/srivishnugiri)
+- ✨ Creating bugs since **2022**
+- 🎓 B.Tech **Artificial Intelligence & Data Science** student (2026)
 - 🌱 Currently learning **Deep Learning, Generative AI & AWS**
-- 👯 Looking to collaborate on **AI/ML & Full-Stack projects**
-- 🤝 Looking for help with **Medical AI & Explainable AI**
-- 💬 Ask me about **Python, Machine Learning, Spring Boot, React, MySQL**
-- 📫 Reach me at **srivishnugiri@gmail.com**
-- ⚡ Fun fact: Debugging + Coffee = ❤️
+- 🎯 Goals: crack top tech roles 💼 and build impactful AI products 🤖
+- 🎸 And… I enjoy listening to music 🎧 and solving coding problems 🧠
+
+
 
 ### 🌐 Social Presence
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/srivishnugiri)
@@ -30,59 +33,45 @@
 
 ---
 
-## 👨‍💻 I Code In
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css,react,spring,mysql,tensorflow,opencv" />
+
+## I code with
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=cpp" />
+<img src="https://skillicons.dev/icons?i=javascript" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=spring" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+<img src="https://skillicons.dev/icons?i=opencv" />
 </p>
 
 ---
 
-## 🧰 IDE & Tools I Use
-<p align="left">
-<img src="https://skillicons.dev/icons?i=vscode,pycharm,git,github,postman,docker,aws" />
+## Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=pycharm" />
+<img src="https://skillicons.dev/icons?i=postman" />
+<img src="https://skillicons.dev/icons?i=docker" />
+<img src="https://skillicons.dev/icons?i=aws" />
 </p>
 
 ---
 
-## 💻 Workspace Spec
-<p align="left">
-<img src="https://img.shields.io/badge/OS-Windows_11-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CPU-Intel_i5-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAM-16GB-important?style=for-the-badge"/>
-</p>
+## Find me here
+
+- 💼 LinkedIn: https://linkedin.com/in/srivishnugiri  
+- 💻 GitHub: https://github.com/srivishnugiri  
+- 🧠 LeetCode: https://leetcode.com/u/srivishnugiri  
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=srivishnugiri&show_icons=true&theme=dark&hide=issues,contribs"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=srivishnugiri&theme=dark"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivishnugiri&layout=compact&theme=dark"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=srivishnugiri&theme=onedark"/>
-</p>
-
----
-
-## 📈 GitHub Activity Graph
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=srivishnugiri&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true"/>
-</p>
-
----
-
-## 👀 Profile Views
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=srivishnugiri&label=Profile%20views&color=0e75b6&style=flat"/>
-</p>
+> “Learning every day, one commit at a time 🚀”
